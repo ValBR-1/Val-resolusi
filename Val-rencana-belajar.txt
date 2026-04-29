@@ -4,4 +4,6 @@
 * Elemen/Tag
 - CSS
 - JAVASCRIPT
-- REACT.JS
+  *Framework Javascript
+    - Angular
+    - React
