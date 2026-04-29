@@ -3,7 +3,9 @@
 * Atribut
 * Elemen/Tag
 - CSS
+  *Property
 - JAVASCRIPT
   *Framework Javascript
-    - Angular
-    - React
+    -vue
+    -React
+- PHP
