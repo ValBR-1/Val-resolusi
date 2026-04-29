@@ -1,5 +1,7 @@
  RENCANA BELAJAR VAL
 - HTML
+* Atribut
+* Elemen/Tag
 - CSS
 - JAVASCRIPT
 - REACT.JS
