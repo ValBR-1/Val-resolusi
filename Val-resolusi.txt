@@ -1,3 +1,4 @@
 VAL RESOLUSI
 - Konsisten belajar ngoding minimal 4 jam/h supaya bisa fullstack developer.
 - Target diakhir tahun udah bisa react.js atau next.js
+- Jago ngoding tanpa AI
